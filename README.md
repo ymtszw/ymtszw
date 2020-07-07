@@ -1,16 +1,19 @@
-### Hi there 👋
+### ymtszw (Yu Matsuzawa; 松澤 有) a.k.a. Gada
 
-<!--
-**ymtszw/ymtszw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+農村でPCゲームして育ちました。2019/06より株式会社Siiibo(@siiibo)取締役CTO。
 
-Here are some ideas to get you started:
+業務でElixirやElmを使ってみたい人は皆仲間です。  
+あとAWSとかDockerとか。  
+あとShellscriptとか。  
+Makefileとか。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Twitter: https://twitter.com/gada_twt
+- Public Scrapboxes
+  - ymtszw: https://scrapbox.io/ymtszw/
+  - gada-games: https://scrapbox.io/gada-games/
+- Qiita: https://qiita.com/ymtszw
+
+#### 職歴
+
+- 2015/04 - 2019/05
+  - 株式会社ACCESS(@access-company) ソフトウェアエンジニア
