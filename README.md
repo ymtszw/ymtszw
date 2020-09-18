@@ -17,3 +17,7 @@ Makefileとか。
 
 - 2015/04 - 2019/05
   - [株式会社ACCESS](https://github.com/access-company) ソフトウェアエンジニア
+
+#### GitHub Readme Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ymtszw&show_icons=true&theme=onedark)
