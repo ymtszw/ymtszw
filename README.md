@@ -1,6 +1,6 @@
 ### ymtszw (Yu Matsuzawa; 松澤 有) a.k.a. Gada
 
-農村でPCゲームして育ちました。2019/06より[株式会社Siiibo](https://github.com/siiibo)取締役CTO。
+農村でPCゲームして育ちました。2019/06より[Siiibo証券株式会社](https://github.com/siiibo)取締役CTO。
 
 業務でElixirやElmを使ってみたい人は皆仲間です。  
 あとAWSとかDockerとか。  
