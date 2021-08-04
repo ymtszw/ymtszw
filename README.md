@@ -16,7 +16,7 @@ Makefileとか。
 #### 職歴
 
 - 2019/06 -
-  - [株式会社Siiibo](https://github.com/siiibo) 取締役CTO
+  - [Siiibo証券株式会社](https://github.com/siiibo) 取締役CTO
 - 2015/04 - 2019/05
   - [株式会社ACCESS](https://github.com/access-company) ソフトウェアエンジニア
 
