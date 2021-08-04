@@ -2,7 +2,7 @@
 
 農村でPCゲームして育ちました。2019/06より[Siiibo証券株式会社](https://github.com/siiibo)取締役CTO。
 
-業務でElixirやElmを使ってみたい人は皆仲間です。  
+大抵の時間はElixirやElmなどを書いてアプリケーション作っています。  
 あとAWSとかDockerとか。  
 あとShellscriptとか。  
 Makefileとか。
