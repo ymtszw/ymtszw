@@ -1,5 +1,7 @@
 ### ymtszw (Yu Matsuzawa; 松澤 有) a.k.a. Gada
 
+[![Twitter: gada\_twt](https://img.shields.io/twitter/follow/gada\_twt.svg?style=social)](https://twitter.com/gada\_twt)
+
 農村でPCゲームして育ちました。2019/06より[Siiibo証券株式会社](https://github.com/siiibo)取締役CTO。
 
 大抵の時間はElixirやElmなどを書いてアプリケーション作っています。  
@@ -7,7 +9,6 @@
 あとShellscriptとか。  
 Makefileとか。
 
-- Twitter: https://twitter.com/gada_twt
 - Public Scrapboxes
   - ymtszw: https://scrapbox.io/ymtszw/
   - gada-games: https://scrapbox.io/gada-games/
