@@ -10,9 +10,10 @@
 Makefileとか。
 
 - Public Scrapboxes
-  - ymtszw: https://scrapbox.io/ymtszw/
-  - gada-games: https://scrapbox.io/gada-games/
-- Qiita: https://qiita.com/ymtszw
+  - ymtszw: <https://scrapbox.io/ymtszw/>
+  - gada-games: <https://scrapbox.io/gada-games/>
+- Qiita: <https://qiita.com/ymtszw>
+- Zenn: <https://zenn.com/ymtszw>
 
 #### 職歴
 
