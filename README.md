@@ -9,6 +9,7 @@
 あとShellscriptとか。  
 Makefileとか。
 
+- Website: <https://ymtszw.cc>
 - Public Scrapboxes
   - ymtszw: <https://scrapbox.io/ymtszw/>
   - gada-games: <https://scrapbox.io/gada-games/>
